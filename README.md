@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
