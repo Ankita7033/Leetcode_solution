@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ankita7033/Leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
