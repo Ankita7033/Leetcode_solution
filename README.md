@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 ## String
@@ -141,9 +143,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
