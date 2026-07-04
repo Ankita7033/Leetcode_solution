@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ankita7033/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Trie
 |  |
 | ------- |
