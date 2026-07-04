@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Ankita7033/Leetcode_solution/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Ankita7033/Leetcode_solution/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/Ankita7033/Leetcode_solution/tree/master/0610-triangle-judgement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
