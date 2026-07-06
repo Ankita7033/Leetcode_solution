@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Ankita7033/Leetcode_solution/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/Ankita7033/Leetcode_solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0619-biggest-single-number) |
+| [1084-sales-analysis-iii](https://github.com/Ankita7033/Leetcode_solution/tree/master/1084-sales-analysis-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
