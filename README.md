@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Ankita7033/Leetcode_solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ankita7033/Leetcode_solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Ankita7033/Leetcode_solution/tree/master/1084-sales-analysis-iii) |
 ## Divide and Conquer
 |  |
