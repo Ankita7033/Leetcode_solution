@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Ankita7033/Leetcode_solution/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Ankita7033/Leetcode_solution/tree/master/1211-queries-quality-and-percentage) |
 | [1789-primary-department-for-each-employee](https://github.com/Ankita7033/Leetcode_solution/tree/master/1789-primary-department-for-each-employee) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Ankita7033/Leetcode_solution/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Divide and Conquer
 |  |
 | ------- |
