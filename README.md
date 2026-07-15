@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankita7033/Leetcode_solution/tree/master/0326-power-of-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita7033/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita7033/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
