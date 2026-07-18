@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ankita7033/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankita7033/Leetcode_solution/tree/master/0326-power-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita7033/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -175,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita7033/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
