@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita7033/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Recursion
