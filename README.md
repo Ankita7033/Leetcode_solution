@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ankita7033/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3110-score-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3110-score-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
