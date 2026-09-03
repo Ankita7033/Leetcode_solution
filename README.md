@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ankita7033/Leetcode_solution/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ankita7033/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ankita7033/Leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Ankita7033/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
@@ -244,9 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
