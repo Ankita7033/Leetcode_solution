@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Ankita7033/Leetcode_solution/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/Ankita7033/Leetcode_solution/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/Ankita7033/Leetcode_solution/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ankita7033/Leetcode_solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Ankita7033/Leetcode_solution/tree/master/0610-triangle-judgement) |
