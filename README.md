@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Ankita7033/Leetcode_solution/tree/master/0089-gray-code) |
 ## Union-Find
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ankita7033/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Ankita7033/Leetcode_solution/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Ankita7033/Leetcode_solution/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankita7033/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
