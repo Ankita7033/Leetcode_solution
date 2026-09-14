@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ankita7033/Leetcode_solution/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankita7033/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
