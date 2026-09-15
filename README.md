@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankita7033/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
