@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankita7033/Leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
