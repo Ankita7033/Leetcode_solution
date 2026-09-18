@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ankita7033/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,4 +308,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
