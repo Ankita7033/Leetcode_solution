@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3110-score-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Sliding Window
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
 | ------- |
