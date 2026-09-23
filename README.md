@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0908-smallest-range-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3945-digit-frequency-score](https://github.com/Ankita7033/Leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankita7033/Leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
