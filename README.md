@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ankita7033/Leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ankita7033/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
 | ------- |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankita7033/Leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
