@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankita7033/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Ankita7033/Leetcode_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankita7033/Leetcode_solution/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Ankita7033/Leetcode_solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [1462-course-schedule-iv](https://github.com/Ankita7033/Leetcode_solution/tree/master/1462-course-schedule-iv) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ankita7033/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ankita7033/Leetcode_solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Ankita7033/Leetcode_solution/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 ## Union-Find
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
 | ------- |
