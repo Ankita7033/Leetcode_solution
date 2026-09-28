@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Ankita7033/Leetcode_solution/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3110-score-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Ankita7033/Leetcode_solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
