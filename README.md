@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ankita7033/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Ankita7033/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Ankita7033/Leetcode_solution/tree/master/0139-word-break) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ankita7033/Leetcode_solution/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Ankita7033/Leetcode_solution/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0062-unique-paths) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brute-Force Search
