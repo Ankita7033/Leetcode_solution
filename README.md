@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0459-repeated-substring-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Ankita7033/Leetcode_solution/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0459-repeated-substring-pattern) |
 ## Database
 |  |
 | ------- |
@@ -385,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Ankita7033/Leetcode_solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
