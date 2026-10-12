@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ankita7033/Leetcode_solution/tree/master/0561-array-partition) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ankita7033/Leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ankita7033/Leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -314,11 +316,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankita7033/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |
