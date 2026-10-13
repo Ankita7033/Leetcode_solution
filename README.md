@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ankita7033/Leetcode_solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
