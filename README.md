@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3467-transform-array-by-parity](https://github.com/Ankita7033/Leetcode_solution/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankita7033/Leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ankita7033/Leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3467-transform-array-by-parity](https://github.com/Ankita7033/Leetcode_solution/tree/master/3467-transform-array-by-parity) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3467-transform-array-by-parity](https://github.com/Ankita7033/Leetcode_solution/tree/master/3467-transform-array-by-parity) |
 ## Queue
 |  |
 | ------- |
