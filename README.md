@@ -404,20 +404,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Ankita7033/Leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quicksort
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Ankita7033/Leetcode_solution/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
