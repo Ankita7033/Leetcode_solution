@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ankita7033/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Ankita7033/Leetcode_solution/tree/master/0310-minimum-height-trees) |
+| [0404-sum-of-left-leaves](https://github.com/Ankita7033/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [1462-course-schedule-iv](https://github.com/Ankita7033/Leetcode_solution/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ankita7033/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Ankita7033/Leetcode_solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Ankita7033/Leetcode_solution/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/Ankita7033/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [1462-course-schedule-iv](https://github.com/Ankita7033/Leetcode_solution/tree/master/1462-course-schedule-iv) |
 ## Graph Theory
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Ankita7033/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankita7033/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankita7033/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Ankita7033/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
