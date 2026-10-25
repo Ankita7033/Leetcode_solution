@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Ankita7033/Leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/Ankita7033/Leetcode_solution/tree/master/0997-find-the-town-judge) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankita7033/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0835-image-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0883-projection-area-of-3d-shapes) |
 ## Backtracking
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankita7033/Leetcode_solution/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankita7033/Leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Ankita7033/Leetcode_solution/tree/master/0883-projection-area-of-3d-shapes) |
 ## Binary Search
 |  |
 | ------- |
