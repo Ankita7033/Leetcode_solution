@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankita7033/Leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ankita7033/Leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 | [1360-number-of-days-between-two-dates](https://github.com/Ankita7033/Leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/Ankita7033/Leetcode_solution/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3110-score-of-a-string) |
