@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ankita7033/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ankita7033/Leetcode_solution/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/Ankita7033/Leetcode_solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ankita7033/Leetcode_solution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0506-relative-ranks) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Ankita7033/Leetcode_solution/tree/master/0495-teemo-attacking) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
