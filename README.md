@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Ankita7033/Leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankita7033/Leetcode_solution/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Ankita7033/Leetcode_solution/tree/master/0495-teemo-attacking) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
