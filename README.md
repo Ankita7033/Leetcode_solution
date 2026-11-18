@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/Ankita7033/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/1370-increasing-decreasing-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankita7033/Leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ankita7033/Leetcode_solution/tree/master/0821-shortest-distance-to-a-character) |
 | [1360-number-of-days-between-two-dates](https://github.com/Ankita7033/Leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/1370-increasing-decreasing-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ankita7033/Leetcode_solution/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankita7033/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1370-increasing-decreasing-string](https://github.com/Ankita7033/Leetcode_solution/tree/master/1370-increasing-decreasing-string) |
 | [3467-transform-array-by-parity](https://github.com/Ankita7033/Leetcode_solution/tree/master/3467-transform-array-by-parity) |
 ## Queue
 |  |
