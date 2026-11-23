@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Ankita7033/Leetcode_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Ankita7033/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Ankita7033/Leetcode_solution/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankita7033/Leetcode_solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ankita7033/Leetcode_solution/tree/master/0989-add-to-array-form-of-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/Ankita7033/Leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankita7033/Leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankita7033/Leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita7033/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankita7033/Leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita7033/Leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankita7033/Leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ankita7033/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Ankita7033/Leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
 | ------- |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankita7033/Leetcode_solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
