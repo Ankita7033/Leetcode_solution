@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ankita7033/Leetcode_solution/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Ankita7033/Leetcode_solution/tree/master/0997-find-the-town-judge) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankita7033/Leetcode_solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Ankita7033/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita7033/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankita7033/Leetcode_solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankita7033/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita7033/Leetcode_solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ankita7033/Leetcode_solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankita7033/Leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Ankita7033/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankita7033/Leetcode_solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankita7033/Leetcode_solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita7033/Leetcode_solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Enumeration
