@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Ankita7033/Leetcode_solution/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Ankita7033/Leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankita7033/Leetcode_solution/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankita7033/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ankita7033/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ankita7033/Leetcode_solution/tree/master/0836-rectangle-overlap) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankita7033/Leetcode_solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Ankita7033/Leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankita7033/Leetcode_solution/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita7033/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ankita7033/Leetcode_solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ankita7033/Leetcode_solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ankita7033/Leetcode_solution/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ankita7033/Leetcode_solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ankita7033/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankita7033/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Linked List
